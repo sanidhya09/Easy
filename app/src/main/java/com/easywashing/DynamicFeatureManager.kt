@@ -1,4 +1,4 @@
-package com.til
+package com.easywashing
 
 import android.content.Context
 import android.content.Intent

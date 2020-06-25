@@ -3,14 +3,14 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 30
 
     defaultConfig {
         applicationId "com.easywashing"
-        minSdkVersion 21
-        targetSdkVersion 29
-        versionCode 23
-        versionName "2.0.1"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 24
+        versionName "2.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 

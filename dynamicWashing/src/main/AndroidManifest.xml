@@ -13,8 +13,9 @@
         <dist:fusing dist:include="true" />
     </dist:module>
 
-    <application>
-        <activity android:name=".MyDynamicActivity"></activity>
+    <application
+        android:extractNativeLibs="false">
+        <activity android:name=".MyDynamicActivity"/>
     </application>
 
 </manifest>
