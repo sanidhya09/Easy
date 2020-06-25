@@ -1,0 +1,3 @@
+include ':dynamicWashing'
+include ':app'
+rootProject.name = "Easy"
